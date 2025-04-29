@@ -14,6 +14,6 @@ Category & Channel Selection Filters: Allows customized views for focused analys
 
 
 <h5>Repository Structure</h5>
-Data:https:https://github.com/Nusratjahannavalur/Excel-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx
+Data:https://github.com/Nusratjahannavalur/Excel-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx
 Dashboard:https://github.com/Nusratjahannavalur/Excel-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis%20Dashboard.xlsx
 Images:https://github.com/Nusratjahannavalur/Excel-Dashboard/blob/main/DashboardImage.png
