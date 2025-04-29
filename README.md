@@ -13,6 +13,6 @@ Month-wise Filter: Enables monthly drill-down to detect time-specific patterns.<
 Category & Channel Selection Filters: Allows customized views for focused analysis across product types and platforms.<br>
 
 Repository Structure
-Data:https://github.com/Nusratjahannavalur/PowerBi-Dashbord/blob/main/SuperStore_Sales_Dataset.csv 
-Dashboard:https://github.com/Nusratjahannavalur/PowerBi-Dashbord/blob/main/PowerBiDashboard.pbix 
-Images:
+Data:https:https://github.com/Nusratjahannavalur/Excel-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx
+Dashboard:https://github.com/Nusratjahannavalur/Excel-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis%20Dashboard.xlsx
+Images:https://github.com/Nusratjahannavalur/Excel-Dashboard/blob/main/DashboardImage.png
