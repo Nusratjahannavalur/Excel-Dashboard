@@ -12,7 +12,8 @@ Channel-wise Orders: Displays platform-specific order trends (e.g., Myntra) for 
 Month-wise Filter: Enables monthly drill-down to detect time-specific patterns.<br>
 Category & Channel Selection Filters: Allows customized views for focused analysis across product types and platforms.<br>
 
-Repository Structure
+
+<h5>Repository Structure</h5>
 Data:https:https://github.com/Nusratjahannavalur/Excel-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx
 Dashboard:https://github.com/Nusratjahannavalur/Excel-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis%20Dashboard.xlsx
 Images:https://github.com/Nusratjahannavalur/Excel-Dashboard/blob/main/DashboardImage.png
